@@ -3,7 +3,7 @@ import React from 'react'
 const Project = () => {
     return (
         <>
-            <div class="flex items-center justify-center py-4 md:py-8 flex-wrap">
+            <div class="mt-20 mb-20 flex items-center justify-center py-4 md:py-8 flex-wrap">
                 <div>
                     <div>
                         <div class="w-full max-w-sm p-4 bg-white border border-gray-200 m-2 shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700 ">
